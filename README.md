@@ -238,6 +238,8 @@ Impact → Operational Cause → Recovery Action
 
 ## Dashboard Page 1: Crisis Impact Overview
 
+![Crisis Impact Overview](screenshots/page_1.png)
+
 ### Purpose
 
 This page explains the overall business impact of the crisis.
@@ -259,6 +261,8 @@ Orders, revenue, and customer ratings declined after June 2025. Recovery should 
 
 ## Dashboard Page 2: Operations & SLA Recovery
 
+![Operations & SLA Recovery](screenshots/page_2.png)
+
 ### Purpose
 
 This page explains the operational drivers behind the crisis impact.
@@ -279,6 +283,8 @@ Operational failure played a major role in the crisis. Severe delivery delays an
 ---
 
 ## Dashboard Page 3: Customer Recovery & Campaign Strategy
+
+![Customer Recovery & Campaign Strategy](screenshots/page_3.png)
 
 ### Purpose
 
